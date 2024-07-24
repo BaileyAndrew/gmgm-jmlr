@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:1901564,organonitrogen compound metabolic process,5.452426967429711e-31
+GO:BP,GO:0006119,oxidative phosphorylation,1.2236972754338431e-23
+GO:BP,GO:0019538,protein metabolic process,3.0502651255920286e-22
+GO:BP,GO:0009060,aerobic respiration,3.926677404960029e-22
+GO:BP,GO:0012501,programmed cell death,1.6652998153426226e-21
+GO:BP,GO:0008219,cell death,2.10816051530761e-21
+GO:BP,GO:0006915,apoptotic process,6.127495533330049e-20
+GO:BP,GO:0043067,regulation of programmed cell death,1.442132297544729e-19
+GO:BP,GO:0010033,response to organic substance,1.9608426462037813e-18
+GO:BP,GO:0045333,cellular respiration,2.237766013739511e-18
+GO:CC,GO:0005737,cytoplasm,8.740616246886905e-88
+GO:CC,GO:0005829,cytosol,6.486238614517563e-54
+GO:CC,GO:0070062,extracellular exosome,7.391292025253544e-45
+GO:CC,GO:1903561,extracellular vesicle,5.362255446688852e-44
+GO:CC,GO:0043230,extracellular organelle,5.819450032228722e-44
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,5.819450032228722e-44
+GO:CC,GO:0031982,vesicle,2.9219523124958465e-39
+GO:CC,GO:0043227,membrane-bounded organelle,5.434291329682877e-37
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5.132268585683044e-35
+GO:CC,GO:0005622,intracellular anatomical structure,1.0331256249611344e-34
+GO:MF,GO:0005515,protein binding,5.533314810414094e-42
+GO:MF,GO:0019899,enzyme binding,3.9960122508568405e-16
+GO:MF,GO:0044877,protein-containing complex binding,5.247752950032439e-12
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,2.6309012324564055e-11
+GO:MF,GO:0045296,cadherin binding,3.755983380611484e-11
+GO:MF,GO:0003743,translation initiation factor activity,5.580638677005395e-11
+GO:MF,GO:0090079,"translation regulator activity, nucleic acid binding",1.1439204123796443e-10
+GO:MF,GO:0008135,"translation factor activity, RNA binding",1.2971623741522645e-10
+GO:MF,GO:0045182,translation regulator activity,2.312674956330614e-10
+GO:MF,GO:0015078,proton transmembrane transporter activity,4.435519445475022e-09
+KEGG,KEGG:00190,Oxidative phosphorylation,9.130151054828362e-24
+KEGG,KEGG:05012,Parkinson disease,1.6183220189146064e-21
+KEGG,KEGG:05020,Prion disease,4.6637643996771215e-18
+KEGG,KEGG:05016,Huntington disease,2.9159581377179136e-17
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,3.605013177498422e-16
+KEGG,KEGG:05415,Diabetic cardiomyopathy,2.116453250930142e-14
+KEGG,KEGG:04714,Thermogenesis,7.430333907513636e-14
+KEGG,KEGG:05010,Alzheimer disease,1.3318724284155776e-11
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,1.7948288616061312e-11
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,1.8301546082916286e-11

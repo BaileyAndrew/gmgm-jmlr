@@ -1,0 +1,37 @@
+source,native,name,p_value
+GO:BP,GO:0006457,protein folding,3.091178915930378e-18
+GO:BP,GO:0061077,chaperone-mediated protein folding,1.948361925751925e-14
+GO:BP,GO:0006458,'de novo' protein folding,2.5344869197591475e-14
+GO:BP,GO:0006986,response to unfolded protein,5.109790278575528e-14
+GO:BP,GO:0035966,response to topologically incorrect protein,1.2952329492601503e-13
+GO:BP,GO:0042026,protein refolding,4.4211312671917066e-13
+GO:BP,GO:0051604,protein maturation,4.817996502782395e-13
+GO:BP,GO:0051085,chaperone cofactor-dependent protein refolding,1.3061050930693079e-12
+GO:BP,GO:0051084,'de novo' post-translational protein folding,4.134201602958118e-12
+GO:BP,GO:0009266,response to temperature stimulus,4.765720784816056e-11
+GO:CC,GO:0070062,extracellular exosome,2.577914267259647e-09
+GO:CC,GO:1903561,extracellular vesicle,3.036107640053775e-09
+GO:CC,GO:0043230,extracellular organelle,3.0567457063172384e-09
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,3.0567457063172384e-09
+GO:CC,GO:0005615,extracellular space,1.0081207477763418e-07
+GO:CC,GO:1904813,ficolin-1-rich granule lumen,2.4475315115187355e-07
+GO:CC,GO:0031982,vesicle,1.8496352483181399e-06
+GO:CC,GO:0101002,ficolin-1-rich granule,2.6268842233941857e-06
+GO:CC,GO:0005576,extracellular region,3.962262993095439e-06
+GO:CC,GO:0101031,protein folding chaperone complex,1.042912756038017e-05
+GO:MF,GO:0044183,protein folding chaperone,2.854273910624244e-21
+GO:MF,GO:0051082,unfolded protein binding,1.8028269487222283e-20
+GO:MF,GO:0140662,ATP-dependent protein folding chaperone,4.137007127131287e-16
+GO:MF,GO:0031625,ubiquitin protein ligase binding,2.7396304321051972e-11
+GO:MF,GO:0044389,ubiquitin-like protein ligase binding,4.834727479651287e-11
+GO:MF,GO:0055131,C3HC4-type RING finger domain binding,3.0351436950326103e-09
+GO:MF,GO:0031072,heat shock protein binding,8.131006934291115e-09
+GO:MF,GO:0051087,protein-folding chaperone binding,8.283679487159194e-07
+GO:MF,GO:0019899,enzyme binding,1.802135460491132e-06
+GO:MF,GO:0140545,ATP-dependent protein disaggregase activity,4.807751300295203e-06
+KEGG,KEGG:04141,Protein processing in endoplasmic reticulum,7.2641463384066105e-09
+KEGG,KEGG:04612,Antigen processing and presentation,5.495462816060674e-06
+KEGG,KEGG:05417,Lipid and atherosclerosis,6.307163612850237e-05
+KEGG,KEGG:05134,Legionellosis,0.00013970787150501405
+KEGG,KEGG:04915,Estrogen signaling pathway,0.0001647034409110878
+KEGG,KEGG:04213,Longevity regulating pathway - multiple species,0.009602353626089738

@@ -1,0 +1,4 @@
+source,native,name,p_value
+GO:CC,GO:0071013,catalytic step 2 spliceosome,0.04376772258921786
+GO:CC,GO:0005840,ribosome,0.04518027231302525
+GO:MF,GO:0003735,structural constituent of ribosome,0.03511121782276537

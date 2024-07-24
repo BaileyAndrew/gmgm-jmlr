@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0002504,antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,4.718990900563507e-13
+GO:BP,GO:0002399,MHC class II protein complex assembly,2.188619709169531e-12
+GO:BP,GO:0002503,peptide antigen assembly with MHC class II protein complex,2.188619709169531e-12
+GO:BP,GO:0002501,peptide antigen assembly with MHC protein complex,1.0518054750993686e-11
+GO:BP,GO:0002396,MHC protein complex assembly,1.0518054750993686e-11
+GO:BP,GO:0019886,antigen processing and presentation of exogenous peptide antigen via MHC class II,1.668329615868007e-10
+GO:BP,GO:0002495,antigen processing and presentation of peptide antigen via MHC class II,3.4167851343442545e-10
+GO:BP,GO:0019882,antigen processing and presentation,6.77303965993213e-10
+GO:BP,GO:0002478,antigen processing and presentation of exogenous peptide antigen,8.510465363592672e-10
+GO:BP,GO:0019884,antigen processing and presentation of exogenous antigen,2.5980197601866205e-09
+GO:CC,GO:0042613,MHC class II protein complex,2.9516057271322283e-16
+GO:CC,GO:0042611,MHC protein complex,3.2082939353862997e-15
+GO:CC,GO:0098553,lumenal side of endoplasmic reticulum membrane,1.2244085443253214e-08
+GO:CC,GO:0098576,lumenal side of membrane,5.692400127497665e-08
+GO:CC,GO:0031902,late endosome membrane,2.2261725313204567e-07
+GO:CC,GO:0005765,lysosomal membrane,2.4372742975198724e-07
+GO:CC,GO:0098852,lytic vacuole membrane,2.4372742975198724e-07
+GO:CC,GO:0005774,vacuolar membrane,4.232217118799897e-07
+GO:CC,GO:0012507,ER to Golgi transport vesicle membrane,4.38355066834476e-07
+GO:CC,GO:0030669,clathrin-coated endocytic vesicle membrane,9.342028348477818e-07
+GO:MF,GO:0023026,MHC class II protein complex binding,4.570444594407466e-12
+GO:MF,GO:0023023,MHC protein complex binding,2.5501725659702675e-11
+GO:MF,GO:0042605,peptide antigen binding,9.133626235983223e-11
+GO:MF,GO:0003823,antigen binding,1.3320567313058714e-07
+GO:MF,GO:0032395,MHC class II receptor activity,2.050982953416465e-07
+GO:MF,GO:0042277,peptide binding,3.1682179577869193e-06
+GO:MF,GO:0033218,amide binding,8.458641922994944e-06
+GO:MF,GO:0042608,T cell receptor binding,0.000813599455849128
+GO:MF,GO:0140375,immune receptor activity,0.0017858172872626955
+GO:MF,GO:0030247,polysaccharide binding,0.004795749548392801
+KEGG,KEGG:05310,Asthma,1.0816698403626006e-11
+KEGG,KEGG:05330,Allograft rejection,3.7282438139469364e-11
+KEGG,KEGG:05332,Graft-versus-host disease,5.840414200477335e-11
+KEGG,KEGG:04940,Type I diabetes mellitus,8.816393017680049e-11
+KEGG,KEGG:04672,Intestinal immune network for IgA production,1.4550998389601235e-10
+KEGG,KEGG:05320,Autoimmune thyroid disease,2.5549596331846864e-10
+KEGG,KEGG:05321,Inflammatory bowel disease,8.670243652082329e-10
+KEGG,KEGG:05416,Viral myocarditis,9.417678449675602e-10
+KEGG,KEGG:04612,Antigen processing and presentation,1.5058046033225646e-09
+KEGG,KEGG:05140,Leishmaniasis,1.8746725089689387e-09

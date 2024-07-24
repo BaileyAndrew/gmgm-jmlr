@@ -1,0 +1,24 @@
+source,native,name,p_value
+GO:BP,GO:1901566,organonitrogen compound biosynthetic process,0.0012577820387798392
+GO:BP,GO:0043603,amide metabolic process,0.0029776009496920142
+GO:BP,GO:0044271,cellular nitrogen compound biosynthetic process,0.003518644997221719
+GO:BP,GO:0006518,peptide metabolic process,0.006607956397139301
+GO:BP,GO:0016192,vesicle-mediated transport,0.008890688692400103
+GO:BP,GO:0006412,translation,0.015574919944701306
+GO:BP,GO:0043604,amide biosynthetic process,0.016766433334466646
+GO:BP,GO:0034248,regulation of amide metabolic process,0.017506849660994667
+GO:BP,GO:0006810,transport,0.018766336929276827
+GO:BP,GO:0015986,proton motive force-driven ATP synthesis,0.02532351813525361
+GO:CC,GO:0005737,cytoplasm,2.260445615024657e-13
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.1149145592842934e-06
+GO:CC,GO:0043227,membrane-bounded organelle,1.5977110747296229e-06
+GO:CC,GO:0098800,inner mitochondrial membrane protein complex,5.000115295710229e-06
+GO:CC,GO:0005829,cytosol,9.308887748497887e-06
+GO:CC,GO:0005681,spliceosomal complex,5.8869466507270613e-05
+GO:CC,GO:0031090,organelle membrane,0.00010426251453023775
+GO:CC,GO:0019866,organelle inner membrane,0.00011328531819312874
+GO:CC,GO:0043226,organelle,0.00013940636431758493
+GO:CC,GO:0043229,intracellular organelle,0.00017066408199957215
+GO:MF,GO:0005515,protein binding,1.9765971314004854e-06
+KEGG,KEGG:05012,Parkinson disease,0.010244140846435795
+KEGG,KEGG:00190,Oxidative phosphorylation,0.016405444562217788

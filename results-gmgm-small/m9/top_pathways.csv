@@ -1,0 +1,9 @@
+source,native,name,p_value
+GO:BP,GO:1901564,organonitrogen compound metabolic process,0.048367204735366834
+GO:CC,GO:0005737,cytoplasm,2.341706163030752e-05
+GO:CC,GO:0031982,vesicle,0.001210026244959723
+GO:CC,GO:0005654,nucleoplasm,0.010573931187992028
+GO:CC,GO:0070062,extracellular exosome,0.018990654892422267
+GO:CC,GO:1903561,extracellular vesicle,0.021991958580473862
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,0.022125690558446515
+GO:CC,GO:0043230,extracellular organelle,0.022125690558446515

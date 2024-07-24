@@ -1,0 +1,8 @@
+source,native,name,p_value
+GO:CC,GO:0005893,interleukin-2 receptor complex,0.00047222770530660303
+GO:MF,GO:0019976,interleukin-2 binding,0.0031238636198243452
+GO:MF,GO:0004911,interleukin-2 receptor activity,0.0031238636198243452
+GO:MF,GO:0005515,protein binding,0.014849598198974474
+GO:MF,GO:0030159,signaling receptor complex adaptor activity,0.029740379873195832
+GO:MF,GO:0140375,immune receptor activity,0.03566360508948448
+KEGG,KEGG:04658,Th1 and Th2 cell differentiation,0.04175518939959291

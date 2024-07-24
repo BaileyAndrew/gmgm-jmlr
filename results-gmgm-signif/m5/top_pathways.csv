@@ -1,0 +1,23 @@
+source,native,name,p_value
+GO:BP,GO:0009605,response to external stimulus,5.384436258212204e-06
+GO:BP,GO:0034097,response to cytokine,1.846178372412451e-05
+GO:BP,GO:0006952,defense response,6.732325195341773e-05
+GO:BP,GO:0007166,cell surface receptor signaling pathway,9.880434846936895e-05
+GO:BP,GO:0006950,response to stress,0.0006633851835739382
+GO:BP,GO:0019221,cytokine-mediated signaling pathway,0.0008471300179367137
+GO:BP,GO:0097398,cellular response to interleukin-17,0.0009191021947068651
+GO:BP,GO:0051607,defense response to virus,0.0010343218585989107
+GO:BP,GO:0097396,response to interleukin-17,0.0011152964232030622
+GO:BP,GO:0042981,regulation of apoptotic process,0.0012785122982220546
+GO:MF,GO:0005125,cytokine activity,0.03032888350321829
+GO:MF,GO:0045236,CXCR chemokine receptor binding,0.04928348519937408
+KEGG,KEGG:04064,NF-kappa B signaling pathway,3.9420510271017604e-05
+KEGG,KEGG:04657,IL-17 signaling pathway,0.0010236881554745237
+KEGG,KEGG:04668,TNF signaling pathway,0.0023078008299753368
+KEGG,KEGG:05134,Legionellosis,0.007435283379360559
+KEGG,KEGG:05202,Transcriptional misregulation in cancer,0.01810625863843298
+KEGG,KEGG:05417,Lipid and atherosclerosis,0.027394564407507788
+KEGG,KEGG:05323,Rheumatoid arthritis,0.028449528762910715
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,0.03661066924947043
+KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,0.04138962932626407
+KEGG,KEGG:05146,Amoebiasis,0.04261129543864915

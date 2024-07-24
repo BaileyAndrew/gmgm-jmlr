@@ -1,0 +1,39 @@
+source,native,name,p_value
+GO:BP,GO:1901564,organonitrogen compound metabolic process,0.0001401234070298063
+GO:BP,GO:0051604,protein maturation,0.00041200084967175574
+GO:BP,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,0.0006887445754909902
+GO:BP,GO:0051171,regulation of nitrogen compound metabolic process,0.0014250717139290177
+GO:BP,GO:0080090,regulation of primary metabolic process,0.001721662796960633
+GO:BP,GO:0010033,response to organic substance,0.0019131832737550394
+GO:BP,GO:0015986,proton motive force-driven ATP synthesis,0.001995709109518273
+GO:BP,GO:0023051,regulation of signaling,0.003069380749517796
+GO:BP,GO:0010646,regulation of cell communication,0.0032267296354055166
+GO:BP,GO:0051246,regulation of protein metabolic process,0.0038530810021975984
+GO:CC,GO:0005737,cytoplasm,5.7308352655339115e-09
+GO:CC,GO:1902494,catalytic complex,1.4938075293661087e-07
+GO:CC,GO:0005622,intracellular anatomical structure,2.389292513451967e-06
+GO:CC,GO:0070013,intracellular organelle lumen,1.0896356981652249e-05
+GO:CC,GO:0031974,membrane-enclosed lumen,1.0896356981652249e-05
+GO:CC,GO:0043233,organelle lumen,1.0896356981652249e-05
+GO:CC,GO:0005654,nucleoplasm,3.699478934843557e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.8258675554485025e-05
+GO:CC,GO:0043227,membrane-bounded organelle,7.168155913912737e-05
+GO:CC,GO:0098796,membrane protein complex,0.0002530053562070192
+GO:MF,GO:0005515,protein binding,0.00018814916594304344
+GO:MF,GO:0042608,T cell receptor binding,0.0007376945172865276
+GO:MF,GO:0008137,NADH dehydrogenase (ubiquinone) activity,0.01027595599457499
+GO:MF,GO:0050136,NADH dehydrogenase (quinone) activity,0.011594231864300811
+GO:MF,GO:0003954,NADH dehydrogenase activity,0.014623805056809646
+GO:MF,GO:0003955,NAD(P)H dehydrogenase (quinone) activity,0.01635257738885839
+GO:MF,GO:0042609,CD4 receptor binding,0.017207966448374933
+GO:MF,GO:0033218,amide binding,0.03726109669386475
+KEGG,KEGG:05016,Huntington disease,0.000710620695508539
+KEGG,KEGG:00190,Oxidative phosphorylation,0.004351410164401931
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,0.0046606030787850975
+KEGG,KEGG:05012,Parkinson disease,0.004805022561276093
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,0.0052312118049652615
+KEGG,KEGG:05020,Prion disease,0.00588591540474824
+KEGG,KEGG:04659,Th17 cell differentiation,0.0065683182618275614
+KEGG,KEGG:05010,Alzheimer disease,0.007566335084011003
+KEGG,KEGG:05415,Diabetic cardiomyopathy,0.014085451433259155
+KEGG,KEGG:04660,T cell receptor signaling pathway,0.014462772349020117

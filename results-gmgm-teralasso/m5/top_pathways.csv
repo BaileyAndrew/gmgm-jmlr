@@ -1,0 +1,23 @@
+source,native,name,p_value
+GO:BP,GO:0009157,deoxyribonucleoside monophosphate biosynthetic process,0.00041343535852827155
+GO:BP,GO:0006259,DNA metabolic process,0.0007896843526257315
+GO:BP,GO:0046385,deoxyribose phosphate biosynthetic process,0.002669556027574028
+GO:BP,GO:0009263,deoxyribonucleotide biosynthetic process,0.002669556027574028
+GO:BP,GO:0009265,2'-deoxyribonucleotide biosynthetic process,0.002669556027574028
+GO:BP,GO:0006260,DNA replication,0.010186181297744819
+GO:BP,GO:0009162,deoxyribonucleoside monophosphate metabolic process,0.014680685367367849
+GO:BP,GO:0055086,nucleobase-containing small molecule metabolic process,0.018398186510266253
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.02060488846238167
+GO:BP,GO:0018130,heterocycle biosynthetic process,0.02721082377190085
+GO:CC,GO:0005634,nucleus,0.0014393892346750113
+GO:CC,GO:0043233,organelle lumen,0.0033138980851773647
+GO:CC,GO:0031974,membrane-enclosed lumen,0.0033138980851773647
+GO:CC,GO:0070013,intracellular organelle lumen,0.0033138980851773647
+GO:CC,GO:0005654,nucleoplasm,0.003968357009398324
+GO:CC,GO:0005829,cytosol,0.010353441604052353
+GO:CC,GO:0043229,intracellular organelle,0.0414382670163545
+GO:MF,GO:0005515,protein binding,0.010983482129913447
+GO:MF,GO:0019136,deoxynucleoside kinase activity,0.011129733387022908
+GO:MF,GO:0019206,nucleoside kinase activity,0.039898203680901724
+KEGG,KEGG:00240,Pyrimidine metabolism,0.0002499009781808444
+KEGG,KEGG:01232,Nucleotide metabolism,0.0011807855805258721

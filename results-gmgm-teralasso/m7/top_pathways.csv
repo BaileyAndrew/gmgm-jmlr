@@ -1,0 +1,25 @@
+source,native,name,p_value
+GO:BP,GO:0050853,B cell receptor signaling pathway,1.0068640778586285e-09
+GO:BP,GO:0050851,antigen receptor-mediated signaling pathway,1.909522847974372e-08
+GO:BP,GO:0002768,immune response-regulating cell surface receptor signaling pathway,3.303143685105616e-08
+GO:BP,GO:0042113,B cell activation,4.1670477918184907e-07
+GO:BP,GO:0002429,immune response-activating cell surface receptor signaling pathway,6.815901453793311e-07
+GO:BP,GO:0002757,immune response-activating signaling pathway,7.509674417800157e-07
+GO:BP,GO:0006955,immune response,1.1172145446812556e-06
+GO:BP,GO:0002764,immune response-regulating signaling pathway,1.2343921587854157e-06
+GO:BP,GO:0002253,activation of immune response,2.411950011737784e-06
+GO:BP,GO:0002684,positive regulation of immune system process,3.3607739185761125e-06
+GO:CC,GO:0071735,IgG immunoglobulin complex,1.0490854039079607e-05
+GO:CC,GO:0019814,immunoglobulin complex,8.377379630816727e-05
+GO:CC,GO:0009897,external side of plasma membrane,0.0003973329579087138
+GO:CC,GO:0071755,IgM B cell receptor complex,0.0005929502267914184
+GO:CC,GO:0031982,vesicle,0.0012027073744903358
+GO:CC,GO:0071753,IgM immunoglobulin complex,0.0029591195707036294
+GO:CC,GO:0019815,B cell receptor complex,0.0029591195707036294
+GO:CC,GO:0070062,extracellular exosome,0.004173900476481719
+GO:CC,GO:1903561,extracellular vesicle,0.004610504312755932
+GO:CC,GO:0043230,extracellular organelle,0.004629525779709051
+GO:MF,GO:0003823,antigen binding,0.0003411635784264266
+GO:MF,GO:0034987,immunoglobulin receptor binding,0.03847580983207912
+KEGG,KEGG:04662,B cell receptor signaling pathway,0.00028098875695867844
+KEGG,KEGG:05340,Primary immunodeficiency,0.0011531160982805454

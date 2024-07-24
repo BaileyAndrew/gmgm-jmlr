@@ -1,0 +1,4 @@
+source,native,name,p_value
+GO:CC,GO:0120025,plasma membrane bounded cell projection,0.03625997798634242
+GO:CC,GO:0042995,cell projection,0.047250180162806334
+GO:MF,GO:0003779,actin binding,0.013191888460124153

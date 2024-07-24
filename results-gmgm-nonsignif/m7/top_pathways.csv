@@ -1,0 +1,22 @@
+source,native,name,p_value
+GO:BP,GO:0051607,defense response to virus,7.338959494056695e-16
+GO:BP,GO:0009615,response to virus,8.562131012589931e-16
+GO:BP,GO:0098542,defense response to other organism,1.9665267041979927e-13
+GO:BP,GO:0140546,defense response to symbiont,8.087624278954325e-13
+GO:BP,GO:0051707,response to other organism,9.912381236681405e-13
+GO:BP,GO:0043207,response to external biotic stimulus,1.0306831056819062e-12
+GO:BP,GO:0009607,response to biotic stimulus,1.6155262825804707e-12
+GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,8.623998142617488e-12
+GO:BP,GO:0045087,innate immune response,3.314445964100173e-11
+GO:BP,GO:0048525,negative regulation of viral process,4.88093516738639e-11
+GO:CC,GO:0005829,cytosol,5.869600257283171e-06
+GO:CC,GO:0005737,cytoplasm,0.0019161638990330858
+KEGG,KEGG:05164,Influenza A,0.00026132445163359923
+KEGG,KEGG:04621,NOD-like receptor signaling pathway,0.0004297961138104573
+KEGG,KEGG:05162,Measles,0.0018090085572599738
+KEGG,KEGG:04217,Necroptosis,0.0034666577545360002
+KEGG,KEGG:05160,Hepatitis C,0.0034666577545360002
+KEGG,KEGG:05169,Epstein-Barr virus infection,0.010106150894313133
+KEGG,KEGG:05165,Human papillomavirus infection,0.012241639979216236
+KEGG,KEGG:05168,Herpes simplex virus 1 infection,0.017541331578848053
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,0.02074284638517405

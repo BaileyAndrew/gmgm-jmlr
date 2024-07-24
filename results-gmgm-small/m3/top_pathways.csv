@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0070887,cellular response to chemical stimulus,1.2737663949708145e-08
+GO:BP,GO:0071216,cellular response to biotic stimulus,1.7029513128360248e-08
+GO:BP,GO:0071310,cellular response to organic substance,8.281776788428995e-08
+GO:BP,GO:0010033,response to organic substance,2.707869979651707e-07
+GO:BP,GO:0006950,response to stress,2.9264406772954364e-07
+GO:BP,GO:0071219,cellular response to molecule of bacterial origin,3.7328883882068344e-07
+GO:BP,GO:1901701,cellular response to oxygen-containing compound,5.856628830172372e-07
+GO:BP,GO:0009607,response to biotic stimulus,1.307250053424276e-06
+GO:BP,GO:0071222,cellular response to lipopolysaccharide,2.0865350296606672e-06
+GO:BP,GO:0051707,response to other organism,2.5554851802648583e-06
+GO:CC,GO:0031982,vesicle,1.0899420924541106e-17
+GO:CC,GO:0070062,extracellular exosome,2.3126414551008186e-15
+GO:CC,GO:1903561,extracellular vesicle,3.861555626298288e-15
+GO:CC,GO:0043230,extracellular organelle,3.944292438920853e-15
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,3.944292438920853e-15
+GO:CC,GO:0000323,lytic vacuole,2.5070284352992528e-11
+GO:CC,GO:0005764,lysosome,2.5070284352992528e-11
+GO:CC,GO:0097708,intracellular vesicle,9.093022267457771e-11
+GO:CC,GO:0005737,cytoplasm,2.889735707949816e-10
+GO:CC,GO:0031410,cytoplasmic vesicle,3.203553399907673e-10
+GO:MF,GO:0005515,protein binding,4.577664632550539e-08
+GO:MF,GO:0031625,ubiquitin protein ligase binding,0.0001746458888928568
+GO:MF,GO:0044389,ubiquitin-like protein ligase binding,0.00034692983064424463
+GO:MF,GO:0019899,enzyme binding,0.003302102609404982
+GO:MF,GO:0016462,pyrophosphatase activity,0.0054060636127385205
+GO:MF,GO:0016817,"hydrolase activity, acting on acid anhydrides",0.005507124980035406
+GO:MF,GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.005507124980035406
+GO:MF,GO:0017111,ribonucleoside triphosphate phosphatase activity,0.006351307915808624
+GO:MF,GO:0044877,protein-containing complex binding,0.007993582131267765
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,0.011984997746988184
+KEGG,KEGG:05012,Parkinson disease,1.1655293722402896e-06
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,5.73559924684263e-06
+KEGG,KEGG:05020,Prion disease,5.567383486093234e-05
+KEGG,KEGG:04932,Non-alcoholic fatty liver disease,8.901330196190055e-05
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,0.00010055238319350939
+KEGG,KEGG:00190,Oxidative phosphorylation,0.00015528217631827164
+KEGG,KEGG:05016,Huntington disease,0.0002657976131895572
+KEGG,KEGG:05010,Alzheimer disease,0.00027751067341304393
+KEGG,KEGG:04141,Protein processing in endoplasmic reticulum,0.0013910021913197818
+KEGG,KEGG:05132,Salmonella infection,0.0025877462986073456

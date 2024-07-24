@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0009060,aerobic respiration,1.4989816865152997e-30
+GO:BP,GO:0006119,oxidative phosphorylation,2.651349818694713e-30
+GO:BP,GO:0045333,cellular respiration,7.507935233482103e-30
+GO:BP,GO:0015986,proton motive force-driven ATP synthesis,2.5710538223562315e-26
+GO:BP,GO:0015980,energy derivation by oxidation of organic compounds,7.214079745574114e-26
+GO:BP,GO:0042773,ATP synthesis coupled electron transport,3.293222462664e-25
+GO:BP,GO:0042775,mitochondrial ATP synthesis coupled electron transport,3.293222462664e-25
+GO:BP,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,1.2644238211069267e-23
+GO:BP,GO:1901564,organonitrogen compound metabolic process,1.337035119847615e-23
+GO:BP,GO:0019646,aerobic electron transport chain,4.4855261621051437e-23
+GO:CC,GO:0005737,cytoplasm,6.445702958395699e-68
+GO:CC,GO:1902494,catalytic complex,1.345702565671888e-41
+GO:CC,GO:0043227,membrane-bounded organelle,3.770829514225823e-41
+GO:CC,GO:0098798,mitochondrial protein-containing complex,6.898722876645383e-38
+GO:CC,GO:0005829,cytosol,8.306587257987356e-38
+GO:CC,GO:0005622,intracellular anatomical structure,1.766108961872415e-36
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.0334805311167598e-34
+GO:CC,GO:0043226,organelle,1.0734221280671243e-34
+GO:CC,GO:0098800,inner mitochondrial membrane protein complex,2.119960255157755e-34
+GO:CC,GO:0043229,intracellular organelle,1.6736229720215877e-32
+GO:MF,GO:0005515,protein binding,3.7544731242959526e-36
+GO:MF,GO:0009055,electron transfer activity,7.06238753565394e-20
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,2.7016239029009726e-19
+GO:MF,GO:0015399,primary active transmembrane transporter activity,6.057413213828474e-15
+GO:MF,GO:0008137,NADH dehydrogenase (ubiquinone) activity,7.84775361597701e-15
+GO:MF,GO:0050136,NADH dehydrogenase (quinone) activity,1.4425746347439574e-14
+GO:MF,GO:0003954,NADH dehydrogenase activity,4.5841135414113776e-14
+GO:MF,GO:0003955,NAD(P)H dehydrogenase (quinone) activity,7.945048994998114e-14
+GO:MF,GO:0019899,enzyme binding,6.392864628203061e-13
+GO:MF,GO:0016655,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",1.373586279871012e-12
+KEGG,KEGG:00190,Oxidative phosphorylation,4.986192588770182e-33
+KEGG,KEGG:05012,Parkinson disease,1.8057154577846472e-31
+KEGG,KEGG:05016,Huntington disease,2.072505713441457e-31
+KEGG,KEGG:05020,Prion disease,3.838414988213592e-28
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,3.6496623209820725e-25
+KEGG,KEGG:05415,Diabetic cardiomyopathy,5.151677689530808e-21
+KEGG,KEGG:05010,Alzheimer disease,8.1978432720318e-21
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,1.728074541950951e-19
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,4.465514697072509e-19
+KEGG,KEGG:04932,Non-alcoholic fatty liver disease,1.1999632685986446e-18

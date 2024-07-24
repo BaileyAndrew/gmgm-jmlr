@@ -1,0 +1,33 @@
+source,native,name,p_value
+GO:BP,GO:0002181,cytoplasmic translation,7.289084526672756e-76
+GO:BP,GO:0006412,translation,3.72658636481154e-48
+GO:BP,GO:0043043,peptide biosynthetic process,1.7847315451271807e-47
+GO:BP,GO:0043604,amide biosynthetic process,1.2543152924485356e-44
+GO:BP,GO:0006518,peptide metabolic process,3.6092493163735587e-44
+GO:BP,GO:0043603,amide metabolic process,1.546299845591147e-39
+GO:BP,GO:1901566,organonitrogen compound biosynthetic process,8.162808292908818e-35
+GO:BP,GO:0042254,ribosome biogenesis,6.056192782043836e-20
+GO:BP,GO:0042274,ribosomal small subunit biogenesis,3.7170266564528953e-19
+GO:BP,GO:0044271,cellular nitrogen compound biosynthetic process,5.920011677525656e-19
+GO:CC,GO:0022626,cytosolic ribosome,2.4367856467262974e-83
+GO:CC,GO:0044391,ribosomal subunit,1.2055349121953978e-73
+GO:CC,GO:0005840,ribosome,1.2146117800577321e-55
+GO:CC,GO:0022625,cytosolic large ribosomal subunit,2.6567032029449716e-39
+GO:CC,GO:0022627,cytosolic small ribosomal subunit,2.6576568698681515e-39
+GO:CC,GO:0015935,small ribosomal subunit,1.603113309552304e-33
+GO:CC,GO:0015934,large ribosomal subunit,3.4896617286529487e-32
+GO:CC,GO:1990904,ribonucleoprotein complex,1.3262155509617488e-28
+GO:CC,GO:0032040,small-subunit processome,1.7090209931875455e-22
+GO:CC,GO:0005925,focal adhesion,1.2313275567730945e-20
+GO:MF,GO:0003735,structural constituent of ribosome,2.42650577019398e-56
+GO:MF,GO:0005198,structural molecule activity,7.57775531001547e-41
+GO:MF,GO:0003723,RNA binding,7.818440961969409e-25
+GO:MF,GO:0003676,nucleic acid binding,2.689672882344403e-15
+GO:MF,GO:0097159,organic cyclic compound binding,3.211480899704665e-11
+GO:MF,GO:0019843,rRNA binding,6.415818562425872e-08
+GO:MF,GO:0048027,mRNA 5'-UTR binding,1.0957350036711755e-06
+GO:MF,GO:1990948,ubiquitin ligase inhibitor activity,1.3130699108120438e-06
+GO:MF,GO:0055105,ubiquitin-protein transferase inhibitor activity,5.133415147503301e-06
+GO:MF,GO:0055106,ubiquitin-protein transferase regulator activity,0.00023960451539031973
+KEGG,KEGG:03010,Ribosome,4.42178099778732e-65
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,2.753334062623995e-57

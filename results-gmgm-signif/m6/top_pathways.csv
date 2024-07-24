@@ -1,0 +1,19 @@
+source,native,name,p_value
+GO:BP,GO:0006098,pentose-phosphate shunt,0.0029540022701642207
+GO:BP,GO:0006740,NADPH regeneration,0.0044853226444527905
+GO:BP,GO:1901564,organonitrogen compound metabolic process,0.005252390378518063
+GO:BP,GO:0052548,regulation of endopeptidase activity,0.007294700263543477
+GO:BP,GO:0051156,glucose 6-phosphate metabolic process,0.008956891543741774
+GO:BP,GO:0052547,regulation of peptidase activity,0.01234755556959428
+GO:BP,GO:1901135,carbohydrate derivative metabolic process,0.03076153061436074
+GO:BP,GO:0009052,"pentose-phosphate shunt, non-oxidative branch",0.032187794824020795
+GO:BP,GO:0006739,NADP metabolic process,0.03309014719883957
+GO:CC,GO:0070062,extracellular exosome,0.0008695688721142947
+GO:CC,GO:1903561,extracellular vesicle,0.0009713637458158234
+GO:CC,GO:0043230,extracellular organelle,0.0009758245207153899
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,0.0009758245207153899
+GO:MF,GO:0016744,transketolase or transaldolase activity,0.004187360018659027
+GO:MF,GO:0047844,deoxycytidine deaminase activity,0.015030795184679894
+GO:MF,GO:0004126,cytidine deaminase activity,0.027496532871303443
+KEGG,KEGG:00030,Pentose phosphate pathway,0.0025399397581994465
+KEGG,KEGG:04390,Hippo signaling pathway,0.021741245966535566

@@ -1,0 +1,34 @@
+source,native,name,p_value
+GO:BP,GO:0034976,response to endoplasmic reticulum stress,5.3906830054598796e-14
+GO:BP,GO:0051604,protein maturation,4.8593473687289785e-09
+GO:BP,GO:1903513,endoplasmic reticulum to cytosol transport,8.45954450096814e-09
+GO:BP,GO:0030970,"retrograde protein transport, ER to cytosol",8.45954450096814e-09
+GO:BP,GO:0036503,ERAD pathway,2.9162541658681907e-08
+GO:BP,GO:0006457,protein folding,3.5307608797915926e-07
+GO:BP,GO:0019538,protein metabolic process,3.6015048565400273e-07
+GO:BP,GO:0032527,protein exit from endoplasmic reticulum,4.2679619782377253e-07
+GO:BP,GO:0045184,establishment of protein localization,6.63793977242551e-07
+GO:BP,GO:0006465,signal peptide processing,9.525800887354685e-07
+GO:CC,GO:0140534,endoplasmic reticulum protein-containing complex,1.4661460130752924e-22
+GO:CC,GO:0005783,endoplasmic reticulum,4.648516667901326e-17
+GO:CC,GO:0005789,endoplasmic reticulum membrane,9.569923724298627e-13
+GO:CC,GO:0098827,endoplasmic reticulum subcompartment,1.0776876430158072e-12
+GO:CC,GO:0042175,nuclear outer membrane-endoplasmic reticulum membrane network,1.5034362122912568e-12
+GO:CC,GO:0071735,IgG immunoglobulin complex,8.839418535265756e-12
+GO:CC,GO:0034663,endoplasmic reticulum chaperone complex,1.4471593619873572e-10
+GO:CC,GO:0031984,organelle subcompartment,2.7027103823851834e-10
+GO:CC,GO:0042571,"immunoglobulin complex, circulating",4.690323796166508e-08
+GO:CC,GO:0005788,endoplasmic reticulum lumen,1.3533685574175908e-07
+GO:MF,GO:0034987,immunoglobulin receptor binding,8.658584736139276e-07
+GO:MF,GO:0003823,antigen binding,0.00011443059229536462
+GO:MF,GO:0051787,misfolded protein binding,0.000408783303735479
+GO:MF,GO:0015035,protein-disulfide reductase activity,0.0033338043796972815
+GO:MF,GO:0015036,disulfide oxidoreductase activity,0.006593827202644977
+GO:MF,GO:0031625,ubiquitin protein ligase binding,0.00811547138443545
+GO:MF,GO:0044389,ubiquitin-like protein ligase binding,0.012211858596244385
+GO:MF,GO:0005515,protein binding,0.01357135450045554
+GO:MF,GO:0016864,"intramolecular oxidoreductase activity, transposing S-S bonds",0.023996118363329544
+GO:MF,GO:0003756,protein disulfide isomerase activity,0.023996118363329544
+KEGG,KEGG:04141,Protein processing in endoplasmic reticulum,6.405344152028397e-20
+KEGG,KEGG:03060,Protein export,6.166325029622026e-07
+KEGG,KEGG:05012,Parkinson disease,0.003567261793341585

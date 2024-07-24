@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0002181,cytoplasmic translation,1.5732552659793974e-10
+GO:BP,GO:0009060,aerobic respiration,7.435805324104235e-08
+GO:BP,GO:0006119,oxidative phosphorylation,1.3707734967571958e-07
+GO:BP,GO:0042773,ATP synthesis coupled electron transport,2.5269826154999906e-07
+GO:BP,GO:0042775,mitochondrial ATP synthesis coupled electron transport,2.5269826154999906e-07
+GO:BP,GO:0015980,energy derivation by oxidation of organic compounds,5.727627337148092e-07
+GO:BP,GO:0045333,cellular respiration,1.9142892336815166e-06
+GO:BP,GO:0006518,peptide metabolic process,2.2945448707298567e-06
+GO:BP,GO:0022904,respiratory electron transport chain,2.6201163394339e-06
+GO:BP,GO:0006091,generation of precursor metabolites and energy,4.50633117863869e-06
+GO:CC,GO:0005737,cytoplasm,2.7524107343779956e-21
+GO:CC,GO:0022625,cytosolic large ribosomal subunit,2.8134838150020028e-14
+GO:CC,GO:0005829,cytosol,3.8272050958779904e-14
+GO:CC,GO:0022626,cytosolic ribosome,1.6442739517564323e-13
+GO:CC,GO:0070062,extracellular exosome,2.446924743306575e-11
+GO:CC,GO:1903561,extracellular vesicle,3.926358130581359e-11
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,4.0038350204965186e-11
+GO:CC,GO:0043230,extracellular organelle,4.0038350204965186e-11
+GO:CC,GO:0044391,ribosomal subunit,5.505631156791734e-11
+GO:CC,GO:0015934,large ribosomal subunit,6.106441536678007e-11
+GO:MF,GO:0005515,protein binding,1.0109523927943372e-06
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,8.244671782290724e-06
+GO:MF,GO:0003723,RNA binding,4.871441153238765e-05
+GO:MF,GO:0009055,electron transfer activity,0.00010314841351411773
+GO:MF,GO:0015399,primary active transmembrane transporter activity,0.0029851754806026758
+GO:MF,GO:0140297,DNA-binding transcription factor binding,0.0036994211353029494
+GO:MF,GO:0008134,transcription factor binding,0.0038939117737664905
+GO:MF,GO:0003735,structural constituent of ribosome,0.00512531367815289
+GO:MF,GO:0008137,NADH dehydrogenase (ubiquinone) activity,0.025135416022912825
+GO:MF,GO:0050136,NADH dehydrogenase (quinone) activity,0.02830658691281159
+KEGG,KEGG:03010,Ribosome,3.7232511040139945e-08
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,1.423409014705485e-05
+KEGG,KEGG:00190,Oxidative phosphorylation,3.6928681637320985e-05
+KEGG,KEGG:05012,Parkinson disease,9.157886465313186e-05
+KEGG,KEGG:05415,Diabetic cardiomyopathy,0.0005117826817564486
+KEGG,KEGG:05016,Huntington disease,0.0005729208455667916
+KEGG,KEGG:05020,Prion disease,0.0005998534381760945
+KEGG,KEGG:05010,Alzheimer disease,0.002502147914205092
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,0.006453111533600136
+KEGG,KEGG:04714,Thermogenesis,0.010278773257233836

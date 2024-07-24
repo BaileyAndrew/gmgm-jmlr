@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0002181,cytoplasmic translation,5.267115431333848e-33
+GO:BP,GO:0006412,translation,3.9731618845875935e-26
+GO:BP,GO:0006518,peptide metabolic process,4.890423597941638e-26
+GO:BP,GO:0043043,peptide biosynthetic process,2.5510497898939827e-25
+GO:BP,GO:0043604,amide biosynthetic process,5.48826684854824e-22
+GO:BP,GO:0043603,amide metabolic process,5.2801530205223056e-21
+GO:BP,GO:1901566,organonitrogen compound biosynthetic process,4.751268046603277e-17
+GO:BP,GO:1901564,organonitrogen compound metabolic process,2.5062269592981398e-14
+GO:BP,GO:0044271,cellular nitrogen compound biosynthetic process,3.7081533994411255e-14
+GO:BP,GO:0019538,protein metabolic process,4.04369742093854e-12
+GO:CC,GO:0022626,cytosolic ribosome,2.3624943010677154e-42
+GO:CC,GO:0044391,ribosomal subunit,3.092926792879756e-35
+GO:CC,GO:0005840,ribosome,2.459326283330528e-23
+GO:CC,GO:0022625,cytosolic large ribosomal subunit,2.7117455735113564e-22
+GO:CC,GO:0022627,cytosolic small ribosomal subunit,2.881083159259373e-19
+GO:CC,GO:0015935,small ribosomal subunit,1.113157692604255e-17
+GO:CC,GO:0005737,cytoplasm,1.951410262975833e-17
+GO:CC,GO:0005829,cytosol,7.815863211314445e-16
+GO:CC,GO:0015934,large ribosomal subunit,8.975977244663609e-16
+GO:CC,GO:0070062,extracellular exosome,9.975574139904904e-16
+GO:MF,GO:0003735,structural constituent of ribosome,3.5316865941884315e-19
+GO:MF,GO:0005198,structural molecule activity,2.462719211186723e-10
+GO:MF,GO:0005515,protein binding,3.790811585628496e-10
+GO:MF,GO:0003723,RNA binding,6.707965866821296e-08
+GO:MF,GO:0003676,nucleic acid binding,0.00017794480780658272
+GO:MF,GO:0019843,rRNA binding,0.0002009670829733665
+GO:MF,GO:0005488,binding,0.00024054556978496728
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,0.0024268340812748867
+GO:MF,GO:0097159,organic cyclic compound binding,0.002948716986653241
+GO:MF,GO:0003729,mRNA binding,0.0032878608155515157
+KEGG,KEGG:03010,Ribosome,6.861114233583918e-29
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,4.259394696144134e-27
+KEGG,KEGG:05020,Prion disease,5.247993301956034e-05
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,0.00022621287752355547
+KEGG,KEGG:05012,Parkinson disease,0.000804475958051358
+KEGG,KEGG:05016,Huntington disease,0.0011914356218477326
+KEGG,KEGG:00190,Oxidative phosphorylation,0.001344844147593481
+KEGG,KEGG:05010,Alzheimer disease,0.006180952853570962
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,0.011005689781653727
+KEGG,KEGG:05415,Diabetic cardiomyopathy,0.013404568897338664

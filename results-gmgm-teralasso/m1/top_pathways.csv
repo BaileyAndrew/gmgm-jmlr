@@ -1,0 +1,25 @@
+source,native,name,p_value
+GO:BP,GO:0002682,regulation of immune system process,7.296794759371521e-09
+GO:BP,GO:0050776,regulation of immune response,1.3649508435620747e-08
+GO:BP,GO:0050778,positive regulation of immune response,1.0848592607852168e-07
+GO:BP,GO:0010033,response to organic substance,1.4916813210300287e-06
+GO:BP,GO:0002684,positive regulation of immune system process,4.677318131067934e-06
+GO:BP,GO:0006955,immune response,7.581702135919064e-06
+GO:BP,GO:0048518,positive regulation of biological process,7.908956695140024e-06
+GO:BP,GO:0002253,activation of immune response,1.1253826334756093e-05
+GO:BP,GO:0010628,positive regulation of gene expression,1.750134155225106e-05
+GO:BP,GO:0070887,cellular response to chemical stimulus,2.4960274486649317e-05
+GO:CC,GO:0031982,vesicle,9.945897283516986e-15
+GO:CC,GO:0005737,cytoplasm,4.283491078842848e-13
+GO:CC,GO:0070062,extracellular exosome,8.765258829662718e-13
+GO:CC,GO:0031410,cytoplasmic vesicle,9.552949985000704e-13
+GO:CC,GO:0097708,intracellular vesicle,1.0427691939537527e-12
+GO:CC,GO:0030141,secretory granule,1.045438063342266e-12
+GO:CC,GO:1903561,extracellular vesicle,1.3927089933130613e-12
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,1.4196261086398856e-12
+GO:CC,GO:0043230,extracellular organelle,1.4196261086398856e-12
+GO:CC,GO:0099503,secretory vesicle,3.0525045509789576e-11
+GO:MF,GO:0005515,protein binding,4.0060259085788e-09
+KEGG,KEGG:04142,Lysosome,0.0025792990883461314
+KEGG,KEGG:05020,Prion disease,0.009525074565568349
+KEGG,KEGG:04145,Phagosome,0.03633450574412377

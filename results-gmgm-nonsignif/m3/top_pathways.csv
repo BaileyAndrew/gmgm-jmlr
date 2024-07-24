@@ -1,0 +1,39 @@
+source,native,name,p_value
+GO:BP,GO:0002181,cytoplasmic translation,2.709225948765779e-121
+GO:BP,GO:0006412,translation,4.609782631146324e-83
+GO:BP,GO:0043043,peptide biosynthetic process,9.891008644752535e-82
+GO:BP,GO:0043604,amide biosynthetic process,3.5253051618037633e-76
+GO:BP,GO:0006518,peptide metabolic process,2.7503030126873895e-75
+GO:BP,GO:1901566,organonitrogen compound biosynthetic process,1.1920830239911647e-67
+GO:BP,GO:0043603,amide metabolic process,2.5016247986037493e-66
+GO:BP,GO:0044271,cellular nitrogen compound biosynthetic process,4.575288290598492e-39
+GO:BP,GO:1901564,organonitrogen compound metabolic process,9.559478322681622e-28
+GO:BP,GO:0042254,ribosome biogenesis,1.0674550797073328e-26
+GO:CC,GO:0022626,cytosolic ribosome,3.627471787141593e-141
+GO:CC,GO:0044391,ribosomal subunit,2.610455420560536e-118
+GO:CC,GO:0005840,ribosome,1.3044135362597814e-88
+GO:CC,GO:0022625,cytosolic large ribosomal subunit,1.2359451757941995e-83
+GO:CC,GO:0015934,large ribosomal subunit,1.1328525781621641e-65
+GO:CC,GO:0022627,cytosolic small ribosomal subunit,2.2622755723998934e-53
+GO:CC,GO:0015935,small ribosomal subunit,9.12427875012112e-44
+GO:CC,GO:1990904,ribonucleoprotein complex,5.5429837676526374e-39
+GO:CC,GO:0005925,focal adhesion,1.6494597953989047e-34
+GO:CC,GO:0030055,cell-substrate junction,3.955853642293144e-34
+GO:MF,GO:0003735,structural constituent of ribosome,2.38773835733253e-86
+GO:MF,GO:0005198,structural molecule activity,9.068572386380806e-62
+GO:MF,GO:0003723,RNA binding,7.571339557553272e-34
+GO:MF,GO:0003676,nucleic acid binding,6.361184625630841e-21
+GO:MF,GO:0097159,organic cyclic compound binding,5.568127871720838e-14
+GO:MF,GO:0019843,rRNA binding,2.7408768462663913e-11
+GO:MF,GO:1990948,ubiquitin ligase inhibitor activity,8.817073090725776e-10
+GO:MF,GO:0055105,ubiquitin-protein transferase inhibitor activity,9.577121487196584e-09
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,1.1322339582348912e-06
+GO:MF,GO:0048027,mRNA 5'-UTR binding,1.7379381631141368e-06
+KEGG,KEGG:03010,Ribosome,1.9118256986311912e-100
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,1.5266639689373311e-87
+KEGG,KEGG:00190,Oxidative phosphorylation,2.762063591316573e-05
+KEGG,KEGG:04714,Thermogenesis,2.8750017339086077e-05
+KEGG,KEGG:05415,Diabetic cardiomyopathy,0.0015386594387876169
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,0.017774632255807173
+KEGG,KEGG:05012,Parkinson disease,0.018009253305848
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,0.020247316353393496

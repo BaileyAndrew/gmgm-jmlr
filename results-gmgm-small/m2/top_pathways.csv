@@ -1,0 +1,33 @@
+source,native,name,p_value
+GO:BP,GO:0006950,response to stress,7.341298207202095e-07
+GO:BP,GO:0050896,response to stimulus,0.0004224745279803034
+GO:BP,GO:0001775,cell activation,0.00048682766138043713
+GO:BP,GO:0033043,regulation of organelle organization,0.0006170530236533133
+GO:BP,GO:0010033,response to organic substance,0.0006304168784202962
+GO:BP,GO:0034097,response to cytokine,0.0010156608169060207
+GO:BP,GO:0002376,immune system process,0.0011480374562036699
+GO:BP,GO:0051172,negative regulation of nitrogen compound metabolic process,0.0012718785931642115
+GO:BP,GO:0045321,leukocyte activation,0.0013353387833554974
+GO:BP,GO:0002682,regulation of immune system process,0.0014481934230118937
+GO:CC,GO:0070062,extracellular exosome,4.595111742574308e-13
+GO:CC,GO:1903561,extracellular vesicle,7.512637083119401e-13
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,7.66685871841412e-13
+GO:CC,GO:0043230,extracellular organelle,7.66685871841412e-13
+GO:CC,GO:0005829,cytosol,4.62603580648964e-12
+GO:CC,GO:0005737,cytoplasm,1.8125224275800034e-09
+GO:CC,GO:0031982,vesicle,1.5525430166279893e-08
+GO:CC,GO:0005615,extracellular space,4.2367051963058756e-07
+GO:CC,GO:0005576,extracellular region,1.1777676325160128e-06
+GO:CC,GO:0043232,intracellular non-membrane-bounded organelle,0.0001393417558126998
+GO:MF,GO:0005515,protein binding,5.078691247847011e-12
+GO:MF,GO:0042802,identical protein binding,6.741053948310013e-06
+GO:MF,GO:0019899,enzyme binding,6.910393312247697e-05
+GO:MF,GO:0044389,ubiquitin-like protein ligase binding,0.00020650250675158645
+GO:MF,GO:0044877,protein-containing complex binding,0.0019361228642672857
+GO:MF,GO:0031625,ubiquitin protein ligase binding,0.0032926837466968643
+GO:MF,GO:0019904,protein domain specific binding,0.005508059168421625
+GO:MF,GO:0019900,kinase binding,0.0072081957716476274
+GO:MF,GO:0005488,binding,0.014603162844922538
+GO:MF,GO:0051920,peroxiredoxin activity,0.02431372162883177
+KEGG,KEGG:05012,Parkinson disease,0.004067153138729281
+KEGG,KEGG:05170,Human immunodeficiency virus 1 infection,0.041255842618586135

@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0002399,MHC class II protein complex assembly,4.3646029749805434e-17
+GO:BP,GO:0002503,peptide antigen assembly with MHC class II protein complex,4.3646029749805434e-17
+GO:BP,GO:0019882,antigen processing and presentation,6.715202930920366e-17
+GO:BP,GO:0048002,antigen processing and presentation of peptide antigen,1.567306572262917e-16
+GO:BP,GO:0002504,antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,2.910329737915883e-16
+GO:BP,GO:0002478,antigen processing and presentation of exogenous peptide antigen,4.700573652445418e-16
+GO:BP,GO:0002501,peptide antigen assembly with MHC protein complex,4.939963630390677e-16
+GO:BP,GO:0002396,MHC protein complex assembly,4.939963630390677e-16
+GO:BP,GO:0019884,antigen processing and presentation of exogenous antigen,3.0144936797654534e-15
+GO:BP,GO:0019886,antigen processing and presentation of exogenous peptide antigen via MHC class II,2.9965631638788784e-14
+GO:CC,GO:0042611,MHC protein complex,7.192255151112187e-25
+GO:CC,GO:0042613,MHC class II protein complex,6.045777128702903e-20
+GO:CC,GO:0098553,lumenal side of endoplasmic reticulum membrane,2.682036630842784e-18
+GO:CC,GO:0012507,ER to Golgi transport vesicle membrane,1.2567512663024711e-17
+GO:CC,GO:0098576,lumenal side of membrane,7.473946700449213e-17
+GO:CC,GO:0030134,COPII-coated ER to Golgi transport vesicle,6.29517892800189e-16
+GO:CC,GO:0030662,coated vesicle membrane,1.0723999277658924e-12
+GO:CC,GO:0030658,transport vesicle membrane,4.8698326678664594e-12
+GO:CC,GO:0030135,coated vesicle,6.324950760409606e-11
+GO:CC,GO:0005768,endosome,1.00013007220266e-10
+GO:MF,GO:0042605,peptide antigen binding,1.7468694935028474e-18
+GO:MF,GO:0023026,MHC class II protein complex binding,6.177378711153466e-15
+GO:MF,GO:0023023,MHC protein complex binding,7.5952025560658e-14
+GO:MF,GO:0003823,antigen binding,1.2199434043083578e-12
+GO:MF,GO:0042277,peptide binding,3.728420072065758e-10
+GO:MF,GO:0033218,amide binding,2.1729782727994844e-09
+GO:MF,GO:0032395,MHC class II receptor activity,6.039326824891195e-09
+GO:MF,GO:0042608,T cell receptor binding,2.0505947601641012e-05
+GO:MF,GO:0044877,protein-containing complex binding,0.0008735206035277574
+GO:MF,GO:0140375,immune receptor activity,0.0014202417839891484
+KEGG,KEGG:05330,Allograft rejection,3.2307124376994717e-18
+KEGG,KEGG:05332,Graft-versus-host disease,7.652800438231763e-18
+KEGG,KEGG:04612,Antigen processing and presentation,9.802309983991145e-18
+KEGG,KEGG:04940,Type I diabetes mellitus,1.6799347897286968e-17
+KEGG,KEGG:05320,Autoimmune thyroid disease,1.2573675643466077e-16
+KEGG,KEGG:05416,Viral myocarditis,1.4398779115157055e-15
+KEGG,KEGG:05310,Asthma,1.3077197778423911e-13
+KEGG,KEGG:04145,Phagosome,4.037757618794619e-12
+KEGG,KEGG:04672,Intestinal immune network for IgA production,5.583839279751701e-12
+KEGG,KEGG:04514,Cell adhesion molecules,5.830680917527467e-12

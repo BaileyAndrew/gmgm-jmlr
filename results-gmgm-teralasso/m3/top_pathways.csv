@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0006952,defense response,4.9719238670365436e-09
+GO:BP,GO:0019221,cytokine-mediated signaling pathway,5.80651338872127e-09
+GO:BP,GO:0002684,positive regulation of immune system process,3.760591625422217e-08
+GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,8.033973239357439e-08
+GO:BP,GO:0006950,response to stress,8.86856140181062e-08
+GO:BP,GO:0098542,defense response to other organism,9.079263203593033e-08
+GO:BP,GO:0140546,defense response to symbiont,7.639920288694135e-07
+GO:BP,GO:0032103,positive regulation of response to external stimulus,1.2596450985674861e-06
+GO:BP,GO:0071310,cellular response to organic substance,1.6359695351835955e-06
+GO:BP,GO:0051707,response to other organism,1.6857495107889934e-06
+GO:CC,GO:0031982,vesicle,1.4481280687207618e-08
+GO:CC,GO:0030139,endocytic vesicle,9.708268059384363e-07
+GO:CC,GO:0005615,extracellular space,2.054368859966354e-06
+GO:CC,GO:0005576,extracellular region,5.087277557720271e-06
+GO:CC,GO:0030666,endocytic vesicle membrane,1.0958639059554845e-05
+GO:CC,GO:0070062,extracellular exosome,1.1031725922807308e-05
+GO:CC,GO:1903561,extracellular vesicle,1.3786955900739168e-05
+GO:CC,GO:0043230,extracellular organelle,1.391463444777336e-05
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,1.391463444777336e-05
+GO:CC,GO:0097708,intracellular vesicle,2.1126597908966476e-05
+GO:MF,GO:0008009,chemokine activity,2.1423255400342034e-05
+GO:MF,GO:0005515,protein binding,7.466541483875955e-05
+GO:MF,GO:0042379,chemokine receptor binding,0.0002943327591196987
+GO:MF,GO:0001664,G protein-coupled receptor binding,0.0010497368358536392
+GO:MF,GO:0023023,MHC protein complex binding,0.004381947623692999
+GO:MF,GO:0005126,cytokine receptor binding,0.006709041767034826
+GO:MF,GO:0005102,signaling receptor binding,0.007026664783726626
+GO:MF,GO:0098772,molecular function regulator activity,0.013871444350171683
+GO:MF,GO:0019899,enzyme binding,0.01849695190002594
+GO:MF,GO:0005125,cytokine activity,0.021197732590221553
+KEGG,KEGG:05169,Epstein-Barr virus infection,6.974276087293433e-06
+KEGG,KEGG:05323,Rheumatoid arthritis,1.0937960202628216e-05
+KEGG,KEGG:04612,Antigen processing and presentation,3.2938580533580296e-05
+KEGG,KEGG:04064,NF-kappa B signaling pathway,3.461012191917778e-05
+KEGG,KEGG:05120,Epithelial cell signaling in Helicobacter pylori infection,3.6401789628728946e-05
+KEGG,KEGG:04061,Viral protein interaction with cytokine and cytokine receptor,0.00036126467739587597
+KEGG,KEGG:04062,Chemokine signaling pathway,0.0004384796807667753
+KEGG,KEGG:05167,Kaposi sarcoma-associated herpesvirus infection,0.0005197580201833027
+KEGG,KEGG:05417,Lipid and atherosclerosis,0.008247816218071514
+KEGG,KEGG:05164,Influenza A,0.011391949445002186

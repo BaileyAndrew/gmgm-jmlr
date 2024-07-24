@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0002181,cytoplasmic translation,1.8242035925360582e-17
+GO:BP,GO:0006412,translation,5.250120160750086e-11
+GO:BP,GO:0043043,peptide biosynthetic process,8.686880192265109e-11
+GO:BP,GO:1901566,organonitrogen compound biosynthetic process,4.187440051336523e-10
+GO:BP,GO:0043604,amide biosynthetic process,7.142109091536141e-10
+GO:BP,GO:0006518,peptide metabolic process,1.0029227095259808e-09
+GO:BP,GO:0043603,amide metabolic process,3.0644054086680154e-08
+GO:BP,GO:0019646,aerobic electron transport chain,5.939192911544961e-05
+GO:BP,GO:0042775,mitochondrial ATP synthesis coupled electron transport,9.043593516574916e-05
+GO:BP,GO:0042773,ATP synthesis coupled electron transport,9.043593516574916e-05
+GO:CC,GO:0022626,cytosolic ribosome,1.1190286530610991e-22
+GO:CC,GO:0022625,cytosolic large ribosomal subunit,6.475332655715157e-19
+GO:CC,GO:0044391,ribosomal subunit,1.4206315343303368e-17
+GO:CC,GO:0015934,large ribosomal subunit,1.2983285646000878e-15
+GO:CC,GO:0005840,ribosome,4.3466414396598146e-14
+GO:CC,GO:0098803,respiratory chain complex,5.339680624777481e-06
+GO:CC,GO:1990904,ribonucleoprotein complex,5.516490597346074e-06
+GO:CC,GO:0032991,protein-containing complex,5.9396643550249236e-06
+GO:CC,GO:0005746,mitochondrial respirasome,6.267968436501991e-06
+GO:CC,GO:0070469,respirasome,9.381936506532634e-06
+GO:MF,GO:0003735,structural constituent of ribosome,2.2160519153062606e-12
+GO:MF,GO:0005198,structural molecule activity,3.52184321157828e-09
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,2.6226569654014686e-06
+GO:MF,GO:0009055,electron transfer activity,4.3515249607711784e-05
+GO:MF,GO:0003723,RNA binding,0.00013077370580017443
+GO:MF,GO:0016675,"oxidoreductase activity, acting on a heme group of donors",0.00016501467784611507
+GO:MF,GO:0004129,cytochrome-c oxidase activity,0.00016501467784611507
+GO:MF,GO:0015399,primary active transmembrane transporter activity,0.0002703820296416211
+GO:MF,GO:0003676,nucleic acid binding,0.023087359816314088
+GO:MF,GO:0022804,active transmembrane transporter activity,0.03473110750232892
+KEGG,KEGG:03010,Ribosome,1.2604436776640272e-14
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,1.9042782490470284e-12
+KEGG,KEGG:04714,Thermogenesis,0.0009698274731399256
+KEGG,KEGG:00190,Oxidative phosphorylation,0.0009746880894679456
+KEGG,KEGG:05415,Diabetic cardiomyopathy,0.00698759920226666
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,0.01067275927185998
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,0.01189465455242849
+KEGG,KEGG:05012,Parkinson disease,0.024853724660105644
+KEGG,KEGG:05020,Prion disease,0.02755605347750314
+KEGG,KEGG:05016,Huntington disease,0.047324583848333386

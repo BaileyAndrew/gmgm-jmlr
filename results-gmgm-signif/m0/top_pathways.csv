@@ -1,0 +1,35 @@
+source,native,name,p_value
+GO:BP,GO:0043484,regulation of RNA splicing,2.093920479382636e-06
+GO:BP,GO:0050684,regulation of mRNA processing,7.677626927271596e-06
+GO:BP,GO:0034976,response to endoplasmic reticulum stress,1.6058968166520727e-05
+GO:BP,GO:0048024,"regulation of mRNA splicing, via spliceosome",1.761730987534868e-05
+GO:BP,GO:0006996,organelle organization,0.0003030316564456535
+GO:BP,GO:1903311,regulation of mRNA metabolic process,0.0006524404667722606
+GO:BP,GO:0048025,"negative regulation of mRNA splicing, via spliceosome",0.0010655292253461714
+GO:BP,GO:0051171,regulation of nitrogen compound metabolic process,0.0011200158309582844
+GO:BP,GO:1903241,U2-type prespliceosome assembly,0.0013380021496949435
+GO:BP,GO:0035967,cellular response to topologically incorrect protein,0.0015068949691722999
+GO:CC,GO:0005737,cytoplasm,4.872905742821636e-11
+GO:CC,GO:0043227,membrane-bounded organelle,7.759096498194853e-10
+GO:CC,GO:0043229,intracellular organelle,1.0744143689212095e-08
+GO:CC,GO:0043226,organelle,1.9744415213636454e-08
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,6.596515721192053e-08
+GO:CC,GO:0070062,extracellular exosome,2.9261154846147724e-07
+GO:CC,GO:1903561,extracellular vesicle,4.0989728272659034e-07
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,4.1564531895264144e-07
+GO:CC,GO:0043230,extracellular organelle,4.1564531895264144e-07
+GO:CC,GO:0070013,intracellular organelle lumen,5.860060606292808e-07
+GO:MF,GO:0005515,protein binding,2.792047563902687e-06
+GO:MF,GO:0051015,actin filament binding,4.6790071764456476e-05
+GO:MF,GO:0044877,protein-containing complex binding,0.00018376870948366567
+GO:MF,GO:0003723,RNA binding,0.0026235382701860566
+GO:MF,GO:0045296,cadherin binding,0.007097045874497158
+GO:MF,GO:0003729,mRNA binding,0.018512342162475673
+GO:MF,GO:0003779,actin binding,0.02468234588846479
+GO:MF,GO:0097159,organic cyclic compound binding,0.04251947468981505
+GO:MF,GO:0003676,nucleic acid binding,0.04420193319731605
+KEGG,KEGG:03040,Spliceosome,0.00010027828428835183
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,0.02181188823614897
+KEGG,KEGG:04141,Protein processing in endoplasmic reticulum,0.02344580223063256
+KEGG,KEGG:05012,Parkinson disease,0.026334426238728517
+KEGG,KEGG:00190,Oxidative phosphorylation,0.03304565549521003
